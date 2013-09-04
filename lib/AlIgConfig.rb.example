@@ -1,0 +1,36 @@
+# Admin
+OFFLINE_MODE = false
+CODE_THANKYOU_INTERVAL = 60*60
+
+# AlIgBitly
+
+BITLY_NAME = "o_1pj91sckd"
+BITLY_PASS = "R_a17f1cc338bdcbf852674a1206578a52"
+
+# AlIgTwitter
+
+ADMIN_TWITTER_ACCOUNT = "@ck" # This should be your main account/
+
+TWIT_CONSUMER_KEY = "TWIT_CONSUMER_KEY"
+TWIT_CONSUMER_SECRET = "TWIT_CONSUMER_SECRET"
+TWIT_OAUTH_TOKEN = "TWIT_OAUTH_TOKEN"
+TWIT_OAUTH_TOKEN_SECRET = "TWIT_OAUTH_TOKEN_SECRET"
+
+# AlIgWeather
+
+LOCATION_WOEID = "2487129" # Yahoo WOEID for local weather.
+WEATHER_UNITS = "f" # "f" or "c"
+
+# Fitbit
+
+# See config.yml. Will migrate all this to all be here.
+
+# Foursquare
+
+FOURSQ_UPDATE_TIME = 5*60
+FOURSQ_OAUTH_TOKEN = "FOURSQ_OAUTH_TOKEN"
+
+# Last.fm
+
+LASTFM_KEY = "LAST_FM_KEY_HERE"
+LASTFM_SECRET = "LAST_FM_SECRET_HERE"

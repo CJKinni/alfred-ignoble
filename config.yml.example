@@ -1,0 +1,13 @@
+---
+:twitter:
+  :tweetResponder:
+    :lastid: 0
+:fitgem:
+  :oauth:
+    :consumer_key: consumer_key
+    :consumer_secret: consumer_secret
+    :token: token
+    :secret: secret
+    :user_id: user_id
+:fitbit:
+  :weight: 0
