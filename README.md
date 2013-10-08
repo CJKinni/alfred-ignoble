@@ -16,7 +16,7 @@ A personal twitter bot that responds to your online activities.
 
 ## IFTTT Setup
 
-Some features of @AlfredIgnoble are implemented using IFTTT:
+Some features of @AlfredIgnoble are implemented using [IFTTT](http://ifttt.com/):
 
 * IFTTT turns on a WeMo Switch connected to a light based on a google calendar event.
 * IFTTT turns on a WeMo switch connected to the light at sunrise.
